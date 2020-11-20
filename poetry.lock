@@ -1,0 +1,18 @@
+[[package]]
+name = "pygments"
+version = "2.7.2"
+description = "Pygments is a syntax highlighting package written in Python."
+category = "main"
+optional = false
+python-versions = ">=3.5"
+
+[metadata]
+lock-version = "1.1"
+python-versions = "^3.7"
+content-hash = "22324886ef4211f8c927380ec3b26bf9d8ae59b9fc2d0f3e1929df897d9bef63"
+
+[metadata.files]
+pygments = [
+    {file = "Pygments-2.7.2-py3-none-any.whl", hash = "sha256:88a0bbcd659fcb9573703957c6b9cff9fab7295e6e76db54c9d00ae42df32773"},
+    {file = "Pygments-2.7.2.tar.gz", hash = "sha256:381985fcc551eb9d37c52088a32914e00517e57f4a21609f48141ba08e193fa0"},
+]

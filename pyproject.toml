@@ -2,7 +2,7 @@
 name = "pygments-css"
 version = "0.1.0"
 description = ""
-authors = ["Danny Vilela <danny.vilela@hulu.com>"]
+authors = ["Danny Vilela <dannyofig@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.7"

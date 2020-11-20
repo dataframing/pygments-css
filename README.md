@@ -1,5 +1,9 @@
 # pygments-css
 
+**If you're looking for the Pygments CSS styles, they're under the `styles` directory.**
+
+## Context
+
 [Pygments](https://pygments.org/) is a self-described "generic syntax highlighter."
 I use it for syntax highlighting code blocks on (eventual) [fastpages](https://github.com/fastai/fastpages) blog.
 The Pygments is actively maintained, which is great!
@@ -11,6 +15,9 @@ Ta-da!
 
 In truth, the only real differences are based around their repo's staleness: it hasn't been updated in 4 years, and Pygments has more themes now. 
 
-Otherwise, it's a dead-simple project. If you'd like to clone it, all you need locally are `poetry` and `make` to get the development environment setup via `make build`. 
+## Development
+
+This is a dead-simple project. 
+If you'd like to extend it, all you need locally are `poetry` and `make` to get the development environment setup via `make build`. 
 Then you run `make css` to re-build the local `styles` folder. 
 Done!

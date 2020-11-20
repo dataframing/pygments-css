@@ -4,8 +4,8 @@
 
 ## Context
 
-[Pygments](https://pygments.org/) is a self-described "generic syntax highlighter."
-I use it for syntax highlighting code blocks on (eventual) [fastpages](https://github.com/fastai/fastpages) blog.
+[Pygments](https://pygments.org/) is a generic syntax highlighter.
+I use it for syntax highlighting code blocks on my (eventual) [fastpages](https://github.com/fastai/fastpages) blog.
 The Pygments is actively maintained, which is great!
 It continues to add different styles and support for different languages.
 
